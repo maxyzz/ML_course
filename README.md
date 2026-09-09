@@ -1,1 +1,1 @@
-TBA
+авторство karpov.courses (https://karpov.courses/ml-start)
