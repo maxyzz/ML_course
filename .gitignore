@@ -2,3 +2,7 @@ env
 .env
 __pycache__
 *.csv
+raw/*.gz
+*.pt
+**/MNIST/raw/
+DL/**/data/
